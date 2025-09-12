@@ -41,7 +41,7 @@
    h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 700;}
 
 body{
-   background-image:url(/images/деревья3.jpg);
+   background-image:url(images/деревья3.jpg);
    background-size: cover;
    background-position: center;
    background-attachment: fixed;
